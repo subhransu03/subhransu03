@@ -91,7 +91,7 @@
 
 <!-- Snake Animation -->
 <div align="center">
-  <img src="https://github.com/subhransu03/subhransu03/blob/output/github-contribution-grid-snake.svg" alt="Snake Animation"/>
+  <img src="https://raw.githubusercontent.com/subhransu03/subhransu03/output/github-contribution-grid-snake.svg" alt="Snake Animation"/>
 </div>
 
 <!-- Connect With Me -->
