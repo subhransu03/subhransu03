@@ -6,7 +6,7 @@
 <!-- Typing SVG and Introduction -->
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=6495ED&background=282A36&center=true&vCenter=true&multiline=true&width=800&height=100&lines=Full+Stack+MERN+Developer+%7C+Java+Developer;Building+innovative+solutions+with+passion!" alt="Typing SVG"/>
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=6495ED&background=282A36&center=true&vCenter=true&multiline=true&width=800&height=100&lines=Full+Stack+Java+Developer;Building+innovative+solutions+with+passion!" alt="Typing SVG"/>
   </a>
 </div>
 
@@ -43,17 +43,9 @@
   <!-- Backend -->
   <h3>Backend</h3>
   <div>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs"/>
-    <img width="12"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="40" alt="express"/>
-    <img width="12"/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java"/>
     <img width="12"/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="40" alt="spring"/>
-    <img width="12"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" alt="php"/>
-    <img width="12"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" height="40" alt="laravel"/>
     <img width="12"/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python"/>
   </div>
