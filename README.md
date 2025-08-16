@@ -14,7 +14,7 @@
 <div align="center">
   <h2>💫 About Me</h2>
   <p>
-    <strong>🚀 Full Stack Developer specializing in MERN, Java & Android</strong><br>
+    <strong>🚀 Full Stack Developer specializing in Java & Android</strong><br>
     <strong>🌱 Passionate about crafting scalable & efficient solutions</strong><br>
     <strong>💡 Always exploring new technologies & best practices</strong>
   </p>
